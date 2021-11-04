@@ -531,6 +531,9 @@ width: 10%;
 .skills .container .testimonials div img {width: 95px;
 height: 95px;
 }
+.skills .container .testimonials>div {flex-flow: column;
+align-items: center;
+}
 }
 
 /* end skills */
