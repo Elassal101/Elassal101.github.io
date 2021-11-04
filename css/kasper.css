@@ -220,7 +220,10 @@ place-items: center;
 .services>.options .image {display: none;}
 .services>.options .options {width: 100%;}
 .services .container>div div p {margin: 0px;}
-.services .container>div div h2 {margin: 0px;}
+.services .container>div div h2 {margin: 0px;
+margin-bottom: 20px;
+margin-top: 20px;    
+}
 }
 /* end services */
 
