@@ -534,6 +534,9 @@ height: 95px;
 .skills .container .testimonials>div {flex-flow: column;
 align-items: center;
 }
+.skills .container .testimonials>div div p {margin: auto;
+margin-top: 20px;
+}
 }
 
 /* end skills */
